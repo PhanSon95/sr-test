@@ -1,0 +1,19 @@
+{
+  "name": "cypress-first-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhanSon95/sr-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhanSon95/sr-test/issues"
+  },
+  "homepage": "https://github.com/PhanSon95/sr-test#readme"
+}
